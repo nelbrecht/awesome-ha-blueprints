@@ -336,7 +336,6 @@ variables:
       button_down_long: [down_hold]
       button_down_release: [down_long_release]
     zigbee2mqtt:
-      # source: https://www.zigbee2mqtt.io/devices/324131092621.html#philips-324131092621
       button_on_short: [on_press]
       button_on_long: [on_hold]
       button_on_release: [on_hold_release]
